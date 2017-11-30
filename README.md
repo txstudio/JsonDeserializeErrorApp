@@ -1,1 +1,3 @@
-# JsonDeserializeErrorApp
+# 在 VB.NET 環境使用 Json 反序列化錯誤範例
+
+VB.NET 會自動轉型，但是並不會幫你把 Object 轉換成物件，使用 JsonConvert.Deserialize 方法要指定型別 ...
